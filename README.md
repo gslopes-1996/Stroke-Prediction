@@ -1,2 +1,2 @@
-# Heart-Attack-Prediction
-Heart Attack Prediction
+# Stroke Prediction
+Stroke Prediction
